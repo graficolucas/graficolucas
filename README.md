@@ -1,5 +1,5 @@
 <img src="foo.gif" alt="This is an animated gif image, but it does not move"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Ho! Lucas</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">,Lucas</h1>
  </p>
 
 - 🔥 hi! I'm Lucas Henrique, designer and developer. Based Curitiba
